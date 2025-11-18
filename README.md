@@ -27,11 +27,16 @@ The load impedance is at z = 0.
 The generator is at z = - l.
 
 The reflected wave has a negative sign in its exponential term, while the forward-propagating wave has a positive sign.
+## GUI Explanation ##
 
-## Single Stub Matching
-**In both files the code saves the last impedance and gamma for mirror and rotation.**
+In both files the code saves the last impedance and gamma for mirror and rotation.
 
  In case you closed the figure just open a new chart you should remain on the currect gamma and Z.
+
+there is an option to delete the first point, circle or arc that were plotted in order to clear the plot.
+
+## Single Stub Matching ##
+
 
 The GUI for matching with a single stub or without a stub:
 
