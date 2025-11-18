@@ -2,6 +2,8 @@
 
 This project uses the skrf, matplotlib, numpy, and tkinter libraries to create a GUI that plots on the Smith chart.
 
+Two examples are included.
+
 ## Installation
 
 To run the code, you need to install the following Python libraries. You can install them using pip:
