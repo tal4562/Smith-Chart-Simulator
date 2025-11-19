@@ -13,7 +13,7 @@ pip install skrf matplotlib numpy
 ```
 This project also requires Tkinter. Some systems do not include it by default, so you may need to install it manually.
 
-A smith chart in the form of a png has also been provided.
+A smith chart in the form of a png has also been provided. Place it inside your project folder, this is the chart the GUI plots on.
 
 
 ## Notation Convention
